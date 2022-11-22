@@ -1,0 +1,31 @@
+.Icons{
+    height: 25px;
+    width: 25 px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: magenta;
+    margin: 5px 15px;
+
+}
+.test{
+    border-width: 1px;
+    border-style: solid;
+    border-color: magenta;
+}
+.row{
+    margin: 0;
+}
+#logo{
+    height: 50px;
+    width: auto;
+    margin: 5px;
+}
+.nav-wrapper{
+    background-color: blueviolet;
+}
+#search{
+    background-color: white;
+    height: 40px;
+    margin: 12px;
+    border-radius: 25px 0px 0px 25px;
+}
